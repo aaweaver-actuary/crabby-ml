@@ -6,7 +6,7 @@
 [![codecov](https://codecov.io/gh/andrew-johnson-4/crabby-ml/branch/master/graph/badge.svg)](https://codecov.io/gh/andrew-johnson-4/crabby-ml)
 
 ## CURRENT DEV PLAN:
-
+```text
 crabby-ml/
 │
 ├── Cargo.toml                    # Project dependencies and metadata
@@ -60,3 +60,4 @@ crabby-ml/
 │   └── basic_usage.rs            # Basic usage of the gradient descent implementation
 │
 └── README.md                     # Project README with an overview, setup, and usage instructions
+```
