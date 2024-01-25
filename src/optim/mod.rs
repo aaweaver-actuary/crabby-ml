@@ -1,2 +1,4 @@
-pub mod optimizer;
-// use crate::optim::optimizer::Optimizer;
+mod gradient_descent;
+mod minibatch_gradient_descent;
+mod minibatch_sgd;
+mod sgd;
